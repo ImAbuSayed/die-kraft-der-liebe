@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-kraft-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Die Kraft der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-kraft-der-liebe/) |
+| **Get License** | [Music Rights & Licensing for Die Kraft der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-kraft-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline leuchtet lila, ich seh' nur deine Augen
+> Lass uns heute Nacht verschwinden, Baby, lass uns daran glauben
+> Dein Body ist ein Kunstwerk, alles an dir glänzt
+> Spür' die Kraft der Liebe, wenn du eng an mir tanzt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
